@@ -17,6 +17,7 @@ npm run start, then follow prompts.
 <img width="342" alt="Screen Shot 2020-10-02 at 11 14 46 PM" src="https://user-images.githubusercontent.com/62626932/94982008-2c3b6f00-0505-11eb-9af0-3ade84032a0d.png">
 
 <br>
+
 ## License
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/dantalmont)
