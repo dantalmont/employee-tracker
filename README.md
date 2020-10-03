@@ -6,6 +6,10 @@ In this application you can track employees using a Content Management Systems I
 
 <br>
 
+[DEMO](https://youtu.be/Mkr0QSIbhl4)<br>
+
+<br>
+
 <img width="707" alt="Screen Shot 2020-10-02 at 11 16 52 PM" src="https://user-images.githubusercontent.com/62626932/94982047-70c70a80-0505-11eb-897b-767a036f60c5.png">
 
 ## Installation
